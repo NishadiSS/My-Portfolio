@@ -64,7 +64,7 @@ openPopupBtns.forEach((btn, index) => {
 
 document.addEventListener("DOMContentLoaded", function () {
     const options = {
-      strings: ['Software Engineer', 'Python Developer', 'Front-end Designer', 'Web Developer', 'You Tuber', 'Data Analyst'],
+      strings: ['Data Science', 'Python Development', 'Artificial Intelligence', 'Web Development','Data Analysis'],
       typeSpeed: 100,
       backSpeed: 50,
       backDelay: 1000,
